@@ -1,0 +1,88 @@
+{
+    "skillSections": [
+        {
+            "title": "Programming Languages",
+            "description": "A fan of C++ but not good at it",
+            "content": [
+                {
+                    "title": "Python",
+                    "description": "Proficiency",
+                    "popUpTitle": "PCPP1 – Certified Professional in Python Programming"
+                },
+                {
+                    "title": "JavaScript",
+                    "description": "Intermediate",
+                    "popUpTitle": "NodeJS, Bun, etc"
+                },
+                {
+                    "title": "C-Sharp",
+                    "description": "Familiar",
+                    "popUpTitle": "Java is painful, but I can code it too"
+                },
+                {
+                    "title": "C/C++",
+                    "description": "Familiar",
+                    "popUpTitle": "C++ is the greatest language alive!"
+                }
+            ]
+        },
+        {
+            "title": "Frameworks",
+            "description": "Web Application and APIs",
+            "content": [
+                {
+                    "title": "Django",
+                    "description": "FastAPI, Falcon",
+                    "popUpTitle": "Python Frameworks"
+                },
+                {
+                    "title": "NestJS",
+                    "description": "ExpressJS, Angular, React, Svelte",
+                    "popUpTitle": "JavaScript Frameworks"
+                },
+                {
+                    "title": ".Net",
+                    "description": "Core (7.0)",
+                    "popUpTitle": "C# Frameworks"
+                },
+                {
+                    "title": "Android",
+                    "description": "Spring Boot",
+                    "popUpTitle": "Java in the Nutshell"
+                }
+            ]
+        }
+    ],
+    "educationInfo": [
+        {
+            "title": "Major",
+            "description": "ECommerce (Faculty of Information System)"
+        },
+        {
+            "title": "GPA",
+            "description": "8.4"
+        },
+        {
+            "title": "Language",
+            "description": "English (IELTS 6.5 - 2018)"
+        },
+        {
+            "title": "Brief intro",
+            "description": "Ja! I graduated from an Economics school. I can communicate fluently in English and I'm learning Germany too."
+        }
+    ],
+    "myExperiences": [
+        {
+            "id": 1,
+            "timeline": "Jun, 2020",
+            "company": "KMS Technology",
+            "description": "This is the description"
+        },
+        {
+            "id": 2,
+            "timeline": "Jun, 2020",
+            "company": "KMS Technology",
+            "description": "This is the description 2"
+        }
+    ]
+}
