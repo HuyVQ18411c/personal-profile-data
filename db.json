@@ -32,7 +32,7 @@
             "content": [
                 {
                     "title": "Django",
-                    "description": "FastAPI, Falcon",
+                    "description": "FastAPI and Falcon",
                     "popUpTitle": "Python Frameworks"
                 },
                 {
@@ -49,6 +49,58 @@
                     "title": "Android",
                     "description": "Spring Boot",
                     "popUpTitle": "Java in the Nutshell"
+                }
+            ]
+        },
+        {
+            "title": "Database",
+            "description": "Just a place to store stuff",
+            "content": [
+                {
+                    "title": "SQL",
+                    "description": "PostgreSQL and MySQL",
+                    "popUpTitle": "Constraint data with keys and schemas"
+                },
+                {
+                    "title": "NoSQL",
+                    "description": "MongoDB and CouchDB",
+                    "popUpTitle": "Document stores, sharding friendly"
+                },
+                {
+                    "title": "In-memory",
+                    "description": "Redis and Memcached",
+                    "popUpTitle": "Caching data in memory to speed up process 🚀"
+                },
+                {
+                    "title": "Graph",
+                    "description": "GraphQL",
+                    "popUpTitle": "I wish I have more chances to gain real-world experience"
+                }
+            ]
+        },
+        {
+            "title": "Development and Deployment",
+            "description": "Just a place to store stuff",
+            "content": [
+                {
+                    "title": "Docker",
+                    "description": "Containerize applications",
+                    "popUpTitle": "Experienced with Docker Compose"
+                },
+                {
+                    "title": "Kubernetes",
+                    "description": "MicroK8S, EKS, Helm",
+                    "popUpTitle": "Charts, values, templates, secrets 😵‍💫"
+                },
+                {
+                    "title": "Git",
+                    "description": "Mostly Github",
+                    "popUpTitle": "Any VCS will do!"
+                },
+                {
+                    "title": "CI/CD",
+                    "description": "Github Actions and Jenkins",
+                    "popUpTitle": "Microservices savior"
                 }
             ]
         }
@@ -68,21 +120,37 @@
         },
         {
             "title": "Brief intro",
-            "description": "Ja! I graduated from an Economics school. I can communicate fluently in English and I'm learning Germany too."
+            "description": "Ja! I graduated from an Economics school. I can communicate fluently in English and I'm learning Germany now."
         }
     ],
     "myExperiences": [
         {
             "id": 1,
-            "timeline": "Jun, 2020",
+            "timeline": "Jun, 2021 - Present",
             "company": "KMS Technology",
-            "description": "This is the description"
+            "job": "Software Engineer",
+            "description": "Work from the end to the back"
         },
         {
             "id": 2,
-            "timeline": "Jun, 2020",
-            "company": "KMS Technology",
-            "description": "This is the description 2"
+            "timeline": "Oct, 2022 - Jan, 2023",
+            "company": "University of Economics and Law",
+            "job": "Teaching Assistant",
+            "description": "Introduce programming to freshers"
+        },
+        {
+            "id": 3,
+            "timeline": "Feb, 2022 - March, 2023",
+            "company": "University of Economics and Law",
+            "job": "Teaching Assistant",
+            "description": "Assist lecturer in programming courses"
+        },
+        {
+            "id": 4,
+            "timeline": "Oct, 2022 - Jan, 2023",
+            "company": "GBS Vietnam - ITP Group",
+            "job": "Front End Developer Trainee",
+            "description": "Hands-on real world web and mobile application"
         }
     ]
 }
